@@ -5,5 +5,5 @@
 It draws a grid of dots across your webcam each dot is lit by the amount of movement it detected
 
 ## Installation
-To run the script you will need to intall a module named opencv that manages taking images from the webcam and showing them in a window you can install that ]here](https://pypi.org/project/opencv-python/). Once the requements are installed simply run the `main.py` file and awey you go.
+To run the script you will need to intall a module named opencv that manages taking images from the webcam and showing them in a window you can install that [here](https://pypi.org/project/opencv-python/). Once the requements are installed simply run the `main.py` file and awey you go.
 
